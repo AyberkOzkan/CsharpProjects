@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "temelFor", "temelFor\temelF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yaziTura", "yaziTura\yaziTura.csproj", "{3493237B-6206-49EF-AD42-76FE3A2C3BCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibOrtalamaHesap", "fibOrtalamaHesap\fibOrtalamaHesap.csproj", "{4ABB3DB4-96C8-4C45-BEC4-4EB49DBB438C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{3493237B-6206-49EF-AD42-76FE3A2C3BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3493237B-6206-49EF-AD42-76FE3A2C3BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3493237B-6206-49EF-AD42-76FE3A2C3BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABB3DB4-96C8-4C45-BEC4-4EB49DBB438C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABB3DB4-96C8-4C45-BEC4-4EB49DBB438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABB3DB4-96C8-4C45-BEC4-4EB49DBB438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABB3DB4-96C8-4C45-BEC4-4EB49DBB438C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
