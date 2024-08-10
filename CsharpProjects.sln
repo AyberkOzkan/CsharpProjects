@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yaziTura", "yaziTura\yaziTu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibOrtalamaHesap", "fibOrtalamaHesap\fibOrtalamaHesap.csproj", "{4ABB3DB4-96C8-4C45-BEC4-4EB49DBB438C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangleDrawer", "triangleDrawer\triangleDrawer.csproj", "{ADD8512C-DD54-46F4-A83A-F8131ED40BD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{4ABB3DB4-96C8-4C45-BEC4-4EB49DBB438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ABB3DB4-96C8-4C45-BEC4-4EB49DBB438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ABB3DB4-96C8-4C45-BEC4-4EB49DBB438C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD8512C-DD54-46F4-A83A-F8131ED40BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD8512C-DD54-46F4-A83A-F8131ED40BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD8512C-DD54-46F4-A83A-F8131ED40BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD8512C-DD54-46F4-A83A-F8131ED40BD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
