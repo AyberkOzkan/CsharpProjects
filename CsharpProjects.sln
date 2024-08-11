@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circleDrawer", "circleDrawe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "removeCharAtIndex", "removeCharAtIndex\removeCharAtIndex.csproj", "{1042EE82-B1EB-47A6-ABED-F9483695053E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringSwapper", "stringSwapper\stringSwapper.csproj", "{432C6F56-9352-4791-B6A6-590625667524}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{1042EE82-B1EB-47A6-ABED-F9483695053E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1042EE82-B1EB-47A6-ABED-F9483695053E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1042EE82-B1EB-47A6-ABED-F9483695053E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432C6F56-9352-4791-B6A6-590625667524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432C6F56-9352-4791-B6A6-590625667524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432C6F56-9352-4791-B6A6-590625667524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432C6F56-9352-4791-B6A6-590625667524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
