@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangleDrawer", "triangleD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circleDrawer", "circleDrawer\circleDrawer.csproj", "{106D248A-EBEF-4D1C-AD09-99A99E41065E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "removeCharAtIndex", "removeCharAtIndex\removeCharAtIndex.csproj", "{1042EE82-B1EB-47A6-ABED-F9483695053E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{106D248A-EBEF-4D1C-AD09-99A99E41065E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{106D248A-EBEF-4D1C-AD09-99A99E41065E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{106D248A-EBEF-4D1C-AD09-99A99E41065E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1042EE82-B1EB-47A6-ABED-F9483695053E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1042EE82-B1EB-47A6-ABED-F9483695053E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1042EE82-B1EB-47A6-ABED-F9483695053E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1042EE82-B1EB-47A6-ABED-F9483695053E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
