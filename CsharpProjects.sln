@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "removeCharAtIndex", "remove
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringSwapper", "stringSwapper\stringSwapper.csproj", "{432C6F56-9352-4791-B6A6-590625667524}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shapeCalculator", "shapeCalculator\shapeCalculator.csproj", "{747BA479-2A07-405E-BE4F-767BEE1A616E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{432C6F56-9352-4791-B6A6-590625667524}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{432C6F56-9352-4791-B6A6-590625667524}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{432C6F56-9352-4791-B6A6-590625667524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747BA479-2A07-405E-BE4F-767BEE1A616E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747BA479-2A07-405E-BE4F-767BEE1A616E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747BA479-2A07-405E-BE4F-767BEE1A616E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747BA479-2A07-405E-BE4F-767BEE1A616E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
