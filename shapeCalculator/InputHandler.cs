@@ -84,5 +84,38 @@ namespace shapeCalculator
             }
             return value;
         }
+        public string GetUnit()
+        {
+            Console.WriteLine("Uzunluk birimini seçin:");
+            Console.WriteLine("\t1) Milimetre (mm)");
+            Console.WriteLine("\t2) Santimetre (cm)");
+            Console.WriteLine("\t3) Metre (m)");
+
+            string unit;
+            while (true)
+            {
+                Console.Write("Birimi seçiniz (1-3): ");
+                string choice = Console.ReadLine() ?? string.Empty;
+
+                switch (choice)
+                {
+                    case "1":
+                        unit = "mm";
+                        break;
+                    case "2":
+                        unit = "cm";
+                        break;
+                    case "3":
+                        unit = "m";
+                        break;
+                    default:
+                        Console.WriteLine("Geçersiz seçim. Lütfen 1 ile 3 arasında bir sayı giriniz.");
+                        continue;
+                }
+                break;
+            }
+
+            return unit;
+        }
     }
 }
