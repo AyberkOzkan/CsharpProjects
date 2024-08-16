@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberProcessor67", "number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consonantChecker", "consonantChecker\consonantChecker.csproj", "{69AD355A-C2BD-4910-9E74-C424B70A57C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringManipulator", "stringManipulator\stringManipulator.csproj", "{52193A1C-492E-4483-AF6A-F1D46F431569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{69AD355A-C2BD-4910-9E74-C424B70A57C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69AD355A-C2BD-4910-9E74-C424B70A57C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69AD355A-C2BD-4910-9E74-C424B70A57C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52193A1C-492E-4483-AF6A-F1D46F431569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52193A1C-492E-4483-AF6A-F1D46F431569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52193A1C-492E-4483-AF6A-F1D46F431569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52193A1C-492E-4483-AF6A-F1D46F431569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
