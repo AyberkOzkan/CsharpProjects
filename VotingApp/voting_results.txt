@@ -1,0 +1,17 @@
+Toplam Oy Kullanım Sayısı: 0
+Oylama Sonuçları:
+
+Film Kategorileri:
+Film 1: 0 oy (%0,00)
+Film 2: 1 oy (%100,00)
+Film 3: 0 oy (%0,00)
+
+Tech Stack Kategorileri:
+JavaScript: 0 oy (%0,00)
+Python: 1 oy (%100,00)
+C#: 0 oy (%0,00)
+
+Spor Kategorileri:
+Futbol: 0 oy (%0,00)
+Basketbol: 0 oy (%0,00)
+Tenis: 1 oy (%100,00)

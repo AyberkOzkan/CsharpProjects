@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "barcodeGenerator", "barcode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{4469BC70-3AE2-47CE-B38F-0E3ABB20739F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingApp", "VotingApp\VotingApp.csproj", "{90E3B0BF-6957-43E4-906D-24497C5D3B22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{4469BC70-3AE2-47CE-B38F-0E3ABB20739F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4469BC70-3AE2-47CE-B38F-0E3ABB20739F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4469BC70-3AE2-47CE-B38F-0E3ABB20739F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E3B0BF-6957-43E4-906D-24497C5D3B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E3B0BF-6957-43E4-906D-24497C5D3B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E3B0BF-6957-43E4-906D-24497C5D3B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E3B0BF-6957-43E4-906D-24497C5D3B22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
