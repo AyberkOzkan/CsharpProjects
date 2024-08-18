@@ -1,0 +1,7 @@
+Gün Sonu Raporu:
+----------
+18.08.2024 16:29:36: Para Yatırma - ₺500,00
+18.08.2024 16:29:44: Para Çekme - ₺2.000,00
+18.08.2024 16:30:03: Para Yatırma - ₺12.000,00
+
+Hatalı Giriş Denemeleri:

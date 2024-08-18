@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringManipulator", "string
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "barcodeGenerator", "barcodeGenerator\barcodeGenerator.csproj", "{9BF266A7-BE03-4505-A01D-DCE021926E42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{4469BC70-3AE2-47CE-B38F-0E3ABB20739F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{9BF266A7-BE03-4505-A01D-DCE021926E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BF266A7-BE03-4505-A01D-DCE021926E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BF266A7-BE03-4505-A01D-DCE021926E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4469BC70-3AE2-47CE-B38F-0E3ABB20739F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4469BC70-3AE2-47CE-B38F-0E3ABB20739F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4469BC70-3AE2-47CE-B38F-0E3ABB20739F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4469BC70-3AE2-47CE-B38F-0E3ABB20739F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
